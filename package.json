@@ -1,5 +1,5 @@
 {
-  "name": "ls-advanced-boilerplate",
+  "name": "test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "reg": "node reg-util.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mihail Bahirev <7074033@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.3.3",
@@ -55,5 +55,6 @@
     "signale": "^1.4.0",
     "vue": "^2.6.7",
     "vue-router": "^3.0.2"
-  }
+  },
+  "repository": "https://github.com/bahir24/polygon"
 }
